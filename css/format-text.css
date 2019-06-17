@@ -1,0 +1,21 @@
+.b-text{
+	font-weight: bold;
+}
+.i-text{
+	font-style: italic;
+}
+.caps{
+	text-transform: uppercase;
+}
+.impact-b{
+	font-family: Impact Black;
+}
+.impact{
+	font-family: Impact;
+}
+.arial-b{
+	font-family: Arial Black;
+}
+.arial{
+	font-family: Arial;
+}
